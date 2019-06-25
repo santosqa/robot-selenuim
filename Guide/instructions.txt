@@ -1,0 +1,32 @@
+1 Links úteis
+
+    :: Documentação Robot Framework
+        https://robotframework.org/
+
+    :: Blog tutoriais robotframework Brasil
+        http://robotizandotestes.blogspot.com/
+
+    :: Estratégia para HTML Locators CSS / Xpath
+        https://www.swtestacademy.com/xpath-selenium/
+        https://www.swtestacademy.com/css-selenium/
+
+    :: Curso Udemy RobotFramework 
+        https://www.udemy.com/automacao-de-testes-com-robot-framework-basico/
+        
+
+2 Pugins vs code
+
+       Atom One Dark Theme
+	   Material Icon Theme
+	   One Dark Pro
+	   vscode-icons
+	   Git Patch
+	   Robot Framework Intellisense
+	   Robot Framework Languade
+	   RobotF extension
+	   RobotFramework
+	   ruby-rubocop
+	   vscode-pdf
+	   
+	   
+	   
